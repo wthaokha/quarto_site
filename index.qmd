@@ -1,0 +1,5 @@
+# Projet "Expérimentation d'aide avec l'IA"
+
+## Préambule
+
+Nous reproduisons ici les réponses données par ChatGPT et Copilot Microsoft, à des fins d'expérimentations et de pédagogie, pour aider à coder en R.
