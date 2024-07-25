@@ -1,4 +1,4 @@
-# Projet "Expérimentation d'aide avec l'IA"
+# Projet "Expérimentation d'aide"
 
 ## Préambule
 
